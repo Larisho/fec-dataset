@@ -1,0 +1,6 @@
+[package]
+name = "fec-dataset"
+version = "0.1.0"
+authors = ["Gab David <g.bianchetdavid@gmail.com>"]
+
+[dependencies]
